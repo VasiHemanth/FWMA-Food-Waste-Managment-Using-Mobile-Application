@@ -1,0 +1,11 @@
+bottom tab bar 
+style:{
+               position:'absolute',
+               bottom:25,
+               right:20,
+               left:20,
+               elevation:0,
+               backgroundColor:'#D9EFF7',
+               height:90,
+               borderRadius:15 
+            },
