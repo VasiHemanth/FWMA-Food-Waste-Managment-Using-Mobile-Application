@@ -7,13 +7,13 @@ import * as firebase from 'firebase';
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDsnKNpLe_WzqLREsH2u5RheBNE0ByC0lE",
-  authDomain: "goodfood-13411.firebaseapp.com",
-  projectId: "goodfood-13411",
-  storageBucket: "goodfood-13411.appspot.com",
-  messagingSenderId: "288341482844",
-  appId: "1:288341482844:web:e46d3c4d45e178b060b599",
-  measurementId: "G-QQCFCVNK6J"
+  apiKey: "Enter_your_firebase_api_key",
+  authDomain: "**********************",
+  projectId: "*******************",
+  storageBucket: "******************",
+  messagingSenderId: "****************",
+  appId: "***************************",
+  measurementId: "***************"
 };
 // Initialize Firebase
 if(firebase.apps.length === 0 ){
